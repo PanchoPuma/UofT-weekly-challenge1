@@ -6,7 +6,7 @@ This repository contains code for a website built for a marketing agency that fo
 
 ## Screenshot
 
-![Alt text](/relative/path/to/horiseon-mock-up.jpg?raw=true "Horizon Website")
+![ScreenShot](/assets/images/horiseon-mock-up.jpg)
 
 ## Link to deployed application
 
